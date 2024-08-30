@@ -1,0 +1,130 @@
+{
+  "pagination": {
+    "limit": 10,
+    "offset": 0,
+    "count": 10,
+    "total": 10000
+  },
+  "data": [
+    {
+      "author": "Lauren Penington",
+      "title": "1 dead, 1 injured in fatal Denver crash near Windsor Lake",
+      "description": "One person died and another was injured in a Thursday morning, single-vehicle crash in Denver's Windsor neighborhood.",
+      "url": "https://www.denverpost.com/2024/08/29/fatal-denver-crash-windsor-lake-injuries-police/",
+      "source": "denverpost",
+      "image": "https://www.denverpost.com/wp-content/uploads/2024/06/generic-ambulance-siren-no-caption.jpg?w=1400px&strip=all",
+      "category": "general",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:38:41+00:00"
+    },
+    {
+      "author": "Emily Arseneau",
+      "title": "Paddleboarder identified from weekend drowning at Rampart Reservoir",
+      "description": "TELLER COUNTY, Colo. (KRDO) - The El Paso County Coroner has identified the paddleboarder who died over the weekend in Rampart Reservoir. RELATED: Rescue teams search for missing person in the Rampart Reservoir The coroner identified him as 25-year-old Theodis \"Otis\" Forrest Jr. A GoFundMe says, \"Otis was a bright light in this world -The post Paddleboarder identified from weekend drowning at Rampart Reservoir appeared first on KRDO.",
+      "url": "https://krdo.com/news/2024/08/29/paddleboarder-identified-from-weekend-drowning-at-rampart-reservoir/",
+      "source": "krdo",
+      "image": null,
+      "category": "general",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:38:39+00:00"
+    },
+    {
+      "author": "Giovanni Colantonio",
+      "title": "Control and Alan Wake to get film and TV adaptations with new deal",
+      "description": "Remedy and Annapurna have partnered up, giving the film studio the film and TV rights to Control and Alan Wake.",
+      "url": "https://www.digitaltrends.com/gaming/remedy-entertainment-annapurna-strategic-partnership/",
+      "source": "digitaltrends",
+      "image": "https://www.digitaltrends.com/wp-content/uploads/2024/08/control-ultimate-edition-key-art.jpg?resize=440%2C292&p=1",
+      "category": "general",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:38:38+00:00"
+    },
+    {
+      "author": "newsdesk@men-news.co.uk (Izzy Hawksworth, Liv Clarke)",
+      "title": "The Harry Styles 'Mecca' so popular it's had to be fenced off from fanatical fans",
+      "description": "The Twemlow Viaduct in Cheshire has become a must-visit destination for fans",
+      "url": "https://www.manchestereveningnews.co.uk/whats-on/whats-on-news/harry-styles-mecca-popular-its-29832310",
+      "source": "Manchester Evening News",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/news/showbiz-news/article29832303.ece/ALTERNATES/s98/1_swns_harry_wall_004_012987.jpg",
+      "category": "general",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2024-08-29T16:38:36+00:00"
+    },
+    {
+      "author": "Associated Press",
+      "title": "Yemen’s Houthi rebel video shows they planted bombs on tanker now threatening Red Sea oil spill",
+      "description": "DUBAI, United Arab Emirates (AP) — Yemen’s Houthi rebels have released footage showing that they boarded and intentionally set explosives aboard a Greek-flagged tanker that was abandoned after they repeatedly attacked it, putting the Red Sea at risk of a major oil spill. The Houthis chanted their group’s motto as the set explosives detonated aboardThe post Yemen&#8217;s Houthi rebel video shows they planted bombs on tanker now threatening Red Sea oil spill appeared first on KION546.",
+      "url": "https://kion546.com/news/2024/08/29/yemens-houthi-rebel-video-shows-they-planted-bombs-on-tanker-now-threatening-red-sea-oil-spill/",
+      "source": "kionrightnow",
+      "image": null,
+      "category": "general",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:38:32+00:00"
+    },
+    {
+      "author": "Business Wire",
+      "title": "Ververica Achieves SOC 2 Certification, Strengthening Commitment to Information Security",
+      "description": "Enhancing customer data protection with industry-leading security and compliance standards. BERLIN &#8212; Ververica, the original creators of Apache Flink and a leader in real-time data streaming, today announced it successfully achieved AICPA Service Organization Control (SOC) 2 Type I certification. This certification, audited by Prescient Assurance, a global leader in security and compliance certifications for [&#8230;]",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ververica-achieves-soc-2-certification-strengthening-commitment-to-information-security",
+      "source": "Financial Post | Canada Business News",
+      "image": null,
+      "category": "business",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:38:23+00:00"
+    },
+    {
+      "author": "DC Correspondent",
+      "title": "AP Government Forms Cabinet Sub-Committee for New Excise Policy",
+      "description": "AP Government Forms Cabinet Sub-Committee for New Excise Policy",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-government-forms-cabinet-sub-committee-for-new-excise-policy-1820009",
+      "source": "deccanchronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2024/07/29/1827446-apgovernment.webp",
+      "category": "general",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:37:55+00:00"
+    },
+    {
+      "author": "Maggie Haberman, Eric Schmitt and Chris Cameron",
+      "title": "Trump Aide ‘Abruptly Pushed Aside’ an Arlington Cemetery Official, the Army Says",
+      "description": "The statement from the Army is the first detailed description of an altercation that took place on Monday, as Mr. Trump appeared for a wreath-laying ceremony.",
+      "url": "https://www.nytimes.com/2024/08/29/us/politics/trump-arlington-cemetery-army.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2024/08/29/multimedia/29election-live-army-arlington-tklf/29election-live-army-arlington-tklf-mediumSquareAt3X.jpg",
+      "category": "politics",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:37:47+00:00"
+    },
+    {
+      "author": "christiana Njideka",
+      "title": "Police kill abductor of High Court judge in Akwa Ibom",
+      "description": "Operatives of the Nigeria Police Force (NPF) from the Akwa Ibom State Police Command have shot dead a notorious kidnapperread more Police kill abductor of High Court judge in Akwa Ibom",
+      "url": "https://businessday.ng/news/article/police-kill-abductor-of-high-court-judge-in-akwa-ibom/",
+      "source": "businessdayonline",
+      "image": null,
+      "category": "general",
+      "language": "en",
+      "country": "us",
+      "published_at": "2024-08-29T16:37:42+00:00"
+    },
+    {
+      "author": "newsdesk@men-news.co.uk (Ethan Davies)",
+      "title": "“It will be the skyline of the city”: Five massive towers, 2,388 flats…but not one is affordable",
+      "description": "Some blocks will feature a dog spa, Mahjong room, and other amenities - while one could become Manchester's tallest",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/it-skyline-city-five-massive-29833706",
+      "source": "Manchester Evening News",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article29833753.ece/ALTERNATES/s98/0_Plot-D-lanternJPG.jpg",
+      "category": "general",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2024-08-29T16:37:39+00:00"
+    }
+  ]
+}
