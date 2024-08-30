@@ -2,20 +2,16 @@ import { categories } from "../../constants";
 import fetchNews from "../../lib/fetchNews";
 import NewsList from "./components/NewsList";
 import response from "../../response.json"
-
 async function Home() {
-// fetch news data
-  const news: NewsResponse = response || await fetchNews(categories.join
-    (" , "));
+  // Use the response from the JSON file instead of fetching new data
+  const news: NewsResponse = response as unknown as NewsResponse;
 
-
-  // console.log(news)
-
+  // Return the component with the news data
   return (
     <div>
       <NewsList news={news} />
     </div>
-
   );
 }
+
 export default Home;
